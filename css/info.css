@@ -1,0 +1,13 @@
+#info .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#info article{
+    margin: 15px;
+}
+#info img{
+    width: 100%;
+    max-width: 500px;
+}
